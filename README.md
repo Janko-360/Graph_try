@@ -1,6 +1,6 @@
 # Graph_try
 Exercise in creating custom graphs with NetworkX  
-NO AI assistance, just documentation and stack overflow searching!
+NO AI assistance, just documentation and stack overflow searching!  
 <br>
 Creating random weighted graphs and visualizing them. Then automatically calculating the shortest route between two nodes with the default Dijkstra's algorithm.  
 All in the slight theme of a road network connecting town nodes. 
